@@ -1,0 +1,8 @@
+This is the link to access the code used to create the CURESORT code. 
+https://github.com/connor-joyce/CureSort2.git
+
+ 
+
+
+The source code itself is also open to the public and can be found here.
+https://github.com/MilesCraft/CureSort2/tree/master/src/CureSort2
